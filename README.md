@@ -1,6 +1,4 @@
 # roast-my-resume
-Website - https://dsabyte.com
-
 Author - https://github.com/ats1999
 
 # Welcome to Resume Roast Repository
@@ -24,6 +22,6 @@ Welcome to the Resume Roast Repository, a place where you can submit your resume
 While the feedback provided in this repository is intended to be helpful, it should be regarded as subjective opinions rather than absolute truths. Ultimately, the effectiveness of any resume advice may vary depending on individual circumstances, industry norms, and personal preferences.
 
 # Get Started
-Ready to improve your resume? Dive in by creating a new issue and submitting your resume for review. We look forward to helping you enhance your professional presentation and advance your career aspirations!
+Ready to improve your resume? Dive in by creating a new [issue](https://github.com/dsabyte/roast-my-resume/issues/new?assignees=&labels=roast&projects=&template=resume-roast.md&title=) and submitting your resume for review. We look forward to helping you enhance your professional presentation and advance your career aspirations!
 
 Happy Roasting! 🚀🔥
